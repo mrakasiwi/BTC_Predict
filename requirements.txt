@@ -7,4 +7,3 @@ statsmodels
 sklearn
 mpld3
 datetime
-time
