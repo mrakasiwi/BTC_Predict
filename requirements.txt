@@ -3,8 +3,7 @@ streamlit
 pandas
 numpy
 matplotlib
-statsmodels
-statsmodels.tsa.arima_model
+statsmodels.api
 ARIMA
 sklearn
 sklearn.metrics
