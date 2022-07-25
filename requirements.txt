@@ -4,6 +4,9 @@ pandas
 numpy
 matplotlib
 statsmodels
+statsmodels.tsa.arima_model
+ARIMA
 sklearn
+sklearn.metrics
 mpld3
 datetime
