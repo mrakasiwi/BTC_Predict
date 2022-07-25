@@ -2,3 +2,10 @@ yfinance
 streamlit
 pandas
 numpy
+matplotlib
+math
+statsmodels
+sklearn
+mpld3
+datetime
+time
