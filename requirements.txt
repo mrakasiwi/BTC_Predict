@@ -3,7 +3,7 @@ streamlit
 pandas
 numpy
 matplotlib
-statsmodels.api
+statsmodels==0.12.1
 ARIMA
 sklearn
 sklearn.metrics
