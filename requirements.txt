@@ -4,8 +4,6 @@ pandas
 numpy
 matplotlib
 statsmodels==0.12.1
-ARIMA
 sklearn
-sklearn.metrics
 mpld3
 datetime
